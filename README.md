@@ -1,24 +1,24 @@
-minat bisa hubungi saya Arjun Fiqri Adrillah 0895328270905
+Yang Minat Bisa hubungi ke nomor wa ya Arjun Fiqri Adrillah 089616738249
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://epg.kampung.xyz/IPTV.xml,"  refresh="3600"
 
-#EXTINF:-1 group-title="DENS Tv" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="DENS Tv" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/scl/fi/2dgdz6552z6npe898ydwj/DJ-TABRAK-TABRAK-MASUK-Oke-Gas-2-Richard-Jersey-Official-Music-Video.mp4?rlkey=a5kwnimy1984yj6t5h9ew5dmd&dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/ohck36vdl607ir2/NOAH%20-%20Seperti%20Kemarin%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/w8hgkydcgwjrt7m/NOAH%20-%20Hidup%20Untukmu%2C%20Mati%20Tanpamu%20%28Official%20Music%20Video%29_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/9jxgwagm0fo29ax/Lewis%20Capaldi%20-%20Someone%20You%20Loved%20%28Official%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/mohabe9d6p8xpbw/Shakira%20-%20Waka%20Waka%20%28This%20Time%20for%20Africa%29%20%28The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song%29.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
@@ -47,8 +47,16 @@ minat bisa hubungi saya Arjun Fiqri Adrillah 0895328270905
 
 =====Dens Tv=====
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (d)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="DENS Tv", Moji (*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 #EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
 #http://210.210.155.37/uq2663/h/h217/01.m3u8
@@ -62,10 +70,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="DENS Tv", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8j1x7atrjh96cefo17qn6/Jowo-dens.jpeg?rlkey=30aasmhxr7yczfaekhyegreq4&dl=0" group-title="DENS Tv", JOWO
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
