@@ -1,4 +1,4 @@
-Yang Minat Bisa hubungi ke nomor wa ya Arjun Fiqri Adrillah 089616738249
+.yang minat bisa japri atau bisa hubungi nomor 089616738249
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://epg.kampung.xyz/IPTV.xml,"  refresh="3600"
@@ -12,16 +12,16 @@ Yang Minat Bisa hubungi ke nomor wa ya Arjun Fiqri Adrillah 089616738249
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/ohck36vdl607ir2/NOAH%20-%20Seperti%20Kemarin%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
+#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/w8hgkydcgwjrt7m/NOAH%20-%20Hidup%20Untukmu%2C%20Mati%20Tanpamu%20%28Official%20Music%20Video%29_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/9jxgwagm0fo29ax/Lewis%20Capaldi%20-%20Someone%20You%20Loved%20%28Official%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/mohabe9d6p8xpbw/Shakira%20-%20Waka%20Waka%20%28This%20Time%20for%20Africa%29%20%28The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
 #https://dl.dropbox.com/s/gpu0rc3swvx6xcb/NOAH%20-%20Kala%20Cinta%20Menggoda%20%28Official%20Music%20Video%29.mp4?dl=0.m3u
 
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
@@ -33,10 +33,10 @@ Yang Minat Bisa hubungi ke nomor wa ya Arjun Fiqri Adrillah 089616738249
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/qvk7o0a6jqy6v1a/Untukmu%20Selamanya%20-%20UNGU%20Studio%20Session.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/ynarkedyym8fe1m/PADI%20REBORN%20-%20TERBAKAR%20CEMBURU.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/cmgxvpx7pvoj9kr/NOAH%20-%20Separuh%20Aku%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
@@ -53,6 +53,9 @@ http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (d)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="DENS Tv", Moji (L)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="DENS Tv", Moji (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -75,6 +78,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/35
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="DENS Tv",JOWO CHANNEL
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/111
 
 #EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", Dens Play
 http://210.210.155.37/uq2663/h/h246/01.m3u8
@@ -343,22 +349,23 @@ https://raw.githubusercontent.com/eepunx/cancan/main/sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LOKAL Vision+", MOJI Live
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="LOKAL Vision+", Moji (L)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LOKAL Vision+", MOJI (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 #EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a00p/index.m3u8
+https://flv.intechmedia.net/live/ch107.m3u8
+#http://103.226.232.196:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="LOKAL Vision+", SCTV HD
 #http://xtv.ooo:8080/live/6301638/5295385/351030.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="LOKAL Vision+", INDOSIAR HD
 #http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LOKAL Vision+", MOJI HD
-#http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
 
 #EXTINF: -1 tvg-
 logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="LOKAL Vision+", Usee Prime
@@ -493,6 +500,9 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
 #http://37.49.225.197:8080/F31068/8fd17683/298550
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="LOKAL", Moji (L)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
+
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV HD" tvg-logo="https://dl.dropboxusercontent.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="LOKAL", MENTARI TV HD
 #http://37.49.225.197:8080/F31068/8fd17683/298546
 
@@ -593,9 +603,12 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/rtv.m3u8
 #EXTINF:-1 group-title="LOKAL 2" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png", INDOSIAR (vidio)
 #https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="LOKAL 2", Moji (L)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="LOKAL 2" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png", Moji Live
+#EXTINF:-1 group-title="LOKAL 2" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png", Moji (*)
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -611,7 +624,7 @@ https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Androi
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LOKAL 2", MOJI (HTV)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://s.id/1YseN
+#https://s.id/1YseN
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="LOKAL 2", SCTV HD
 http://xtv.ooo:8080/live/6301638/5295385/351030.m3u8
@@ -789,6 +802,9 @@ http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="LOKAL 2",JOWO CHANNEL
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/111
 
 #EXTINF:-1 tvg-id="TegarTVJogja" tvg-logo="https://dl.dropbox.com/scl/fi/2x04lrxwbstqjjjh5kpl5/Tegarjogja-tv.jpeg?rlkey=myqggiv6znyz9czdjljgvajfv&dl=0" group-title="LOKAL 2",Tegar TV Jogja
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
@@ -2371,6 +2387,22 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="warnertvasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/8k7wayonb9lfrpj/warnertv.png",WARNER TV (CubMu) 🇮🇩
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="HBO GROUP",HBO (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/21
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="HBO GROUP",HBO Family (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/24
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="HBO GROUP",HBO Hits (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/22
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="HBO GROUP",HBO Signature (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/23
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="HBO GROUP",Cinemax (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/25
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/warner.png" group-title="HBO GROUP",Warner TV (*)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/29
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2378,7 +2410,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO GROUP",HBO (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2386,7 +2418,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO GROUP",HBO Family (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2394,7 +2426,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP",HBO Hits (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2402,7 +2434,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP",HBO Signature (MAX)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -4207,7 +4239,7 @@ https://kametv.my.id/v/lig2indo/lig2indo.m3u8?id=16992
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://omzolix.elementfx.com/logo/konoha.jpg" group-title="LIGA BRI", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
