@@ -22,7 +22,7 @@ ARJUN FIQRI ADRILLAH
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/mohabe9d6p8xpbw/Shakira%20-%20Waka%20Waka%20%28This%20Time%20for%20Africa%29%20%28The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/s/gpu0rc3swvx6xcb/NOAH%20-%20Kala%20Cinta%20Menggoda%20%28Official%20Music%20Video%29.mp4?dl=0.m3u
 
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
