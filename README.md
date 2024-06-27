@@ -3,46 +3,46 @@ Yang minat bisa hubungi ke nomor wa arjun fiqri adrillah 089616738249
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://epg.kampung.xyz/IPTV.xml,"  refresh="3600"
 
-#EXTINF:-1 group-title="DENS Tv" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="DENS Tv" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", SILAHKAN PILIH CHANNEL YANG LANCAR SELAMAT MENIKMATI
+#EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", 
 #https://dl.dropbox.com/scl/fi/2dgdz6552z6npe898ydwj/DJ-TABRAK-TABRAK-MASUK-Oke-Gas-2-Richard-Jersey-Official-Music-Video.mp4?rlkey=a5kwnimy1984yj6t5h9ew5dmd&dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/ohck36vdl607ir2/NOAH%20-%20Seperti%20Kemarin%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="LOKAL 2" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/w8hgkydcgwjrt7m/NOAH%20-%20Hidup%20Untukmu%2C%20Mati%20Tanpamu%20%28Official%20Music%20Video%29_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/9jxgwagm0fo29ax/Lewis%20Capaldi%20-%20Someone%20You%20Loved%20%28Official%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/mohabe9d6p8xpbw/Shakira%20-%20Waka%20Waka%20%28This%20Time%20for%20Africa%29%20%28The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/gpu0rc3swvx6xcb/NOAH%20-%20Kala%20Cinta%20Menggoda%20%28Official%20Music%20Video%29.mp4?dl=0.m3u
 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/lf8qd556s3y8eut/NOAH%20-%20Bintang%20di%20Surga%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/lf8qd556s3y8eut/NOAH%20-%20Bintang%20di%20Surga%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/qvk7o0a6jqy6v1a/Untukmu%20Selamanya%20-%20UNGU%20Studio%20Session.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/ynarkedyym8fe1m/PADI%20REBORN%20-%20TERBAKAR%20CEMBURU.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/cmgxvpx7pvoj9kr/NOAH%20-%20Separuh%20Aku%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/coeagdazvfr0vpk/km_20220529_720p_001.mp4?dl=0.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg", Info Update 081775703888  Anobyz
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropbox.com/s/ne947ptsh4qj620/Screenshot_20230213_153223_Logo%20Maker.jpg",
 #https://dl.dropbox.com/s/j0b599sv6azs9yu/Opick%20ft.%20Amanda%20-%20Alhamdulillah%20%28Lirik%29.mp4?dl=0.m3u8
 
 =====Dens Tv=====
@@ -5106,10 +5106,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
-
-
-
-
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -5181,8 +5177,6 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 
 #EXTINF:-1,CHAMPIONS LEAGUE 3 HD
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-
-
 
 #EXTINF:-1,LALIGA 🇨🇷
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
