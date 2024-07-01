@@ -4866,9 +4866,6 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1, Nova Sport 3 🇬🇷
 http://213.7.193.54:4000/play/a005/index.m3u8
 
-#EXTINF:-1, Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
 #EXTINF:-1, SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -5106,10 +5103,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1, TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
-
-
-
-
 #EXTINF:-1, Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -5181,8 +5174,6 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 
 #EXTINF:-1,CHAMPIONS LEAGUE 3 HD
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-
-
 
 #EXTINF:-1,LALIGA 🇨🇷
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
